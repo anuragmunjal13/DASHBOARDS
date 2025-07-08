@@ -1,6 +1,6 @@
 Personal Finance Dashboard (Power BI)
 This Power BI dashboard provides a comprehensive overview of personal financial management. It tracks key financial metrics and trends over time, enabling users to make informed decisions and improve budgeting habits.
-🔧 Features:
+ Features:
 📈 Visualizations for Income, Savings, and Expenses
 📆 Monthly and Yearly Breakdown of all financial activities
 💡 Interactive Filters to drill down into specific time periods or categories
