@@ -1,2 +1,10 @@
-tableau public-
-https://public.tableau.com/app/profile/anuarg.munjal/viz/netflix_17314277585970/NETFLIX
+Netflix Content Analysis Dashboard (Tableau)
+This Tableau dashboard offers an in-depth analysis of Netflix’s movie and TV show catalog. Designed for intuitive exploration, the dashboard allows users to:
+🔍 Filter by Type: Choose between Movies or TV Shows via a dropdown.
+🎬 Search by Title: Instantly look up any specific content.
+📅 View Release Trends: Analyze the number of movies and shows released per year.
+🎭 Genre Insights: Explore the Top 10 most common genres across the platform.
+⭐ Ratings & Metadata: See content-wise details including release year, genre, and user ratings.
+The dashboard is useful for both casual viewers and analysts looking to understand content distribution, genre trends, and Netflix’s production behavior over time.
+
+LINK - https://public.tableau.com/app/profile/anuarg.munjal/viz/netflix_17314277585970/NETFLIX
